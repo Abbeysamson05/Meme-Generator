@@ -1,0 +1,9 @@
+.meme-container {
+  max-width: 700px;
+  box-shadow: 1px 3px 5px rgb(0, 0, 0, 0.1);
+}
+.yes {
+  padding: 1.5rem !important;
+  border-radius: 50%;
+  background-color: white;
+}
